@@ -1,0 +1,24 @@
+.pokemon-item {
+  border: 1px solid rgb(8, 8, 23);
+  width: 200px;
+  height: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(212, 233, 245);
+  border-radius: 7px;
+  margin: 10px;
+  cursor: pointer;
+}
+.link-item {
+  text-decoration: none;
+}
+.thumbnail {
+  width: 150px;
+}
+.name {
+  color: rgb(6, 6, 51);
+  font-family: Bree Serif;
+  text-align: center;
+}
